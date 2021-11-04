@@ -1334,6 +1334,7 @@ a.text-dark:hover, a.text-dark:focus {
 .page-banner.home-banner .img-fluid {
   max-width: 400px;
   margin: 0 auto;
+  text-align: center;
 }
 
 .page-banner.home-banner .btn-scroll {
@@ -1477,7 +1478,7 @@ a.text-dark:hover, a.text-dark:focus {
   border-radius: 50%;
   text-align: center;
   background-color: #fff;
-  color: #6C55F9;
+  color: #0eb474; /* #73ddb4-verde clarinho */
   font-size: 24px;
   box-shadow: 0 2px 4px rgba(95, 92, 120, 0.16);
 }
@@ -1517,7 +1518,7 @@ a.text-dark:hover, a.text-dark:focus {
   position: absolute;
   top: 6px;
   right: 6px;
-} 
+}
 
 
 .card-pricing {
