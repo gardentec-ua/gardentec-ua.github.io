@@ -1,5 +1,5 @@
-  =>  Template Name    : PetLover - Pet Care Website Template
-
+  =>  Template Name    : GardenTec
+  
   =>  Template Link    : https://htmlcodex.com/pet-care-website-template
 
   =>  Template License : https://htmlcodex.com/license (or read the LICENSE.txt file)
